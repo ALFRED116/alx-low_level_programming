@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * main - Prints the Alphabetic
@@ -8,10 +8,10 @@
 int main(void)
 
 {
-	char C;
+	char c;
 
-	for (C = 'a'; C <= 'Z'; C++)
-	putchar(C);
+	for (c = 'a'; c <= 'Z'; C++)
+	putchar(c);
 	putchar('\n');
 	return (0);
 }
