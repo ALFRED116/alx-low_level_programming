@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
- * print_diagums - Entry point
+ * print_diagsums - Entry point
  * @a: input
  * @size: input
  * Return: Always 0 (Success)
  */
-void print_diagums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 	int i, n, sum1 = 0, sum2 = 0;
 
